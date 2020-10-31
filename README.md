@@ -1,4 +1,3 @@
-# currencyconverter2020
 
 ## Project setup
 ```
